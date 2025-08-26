@@ -1,4 +1,4 @@
-
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/M0RPH10U5/PCPin-v5.16-PHP-8/latest/total?style=plastic&label=Latest&labelColor=%23777777&color=%2300FF30)
 
 
 > [!NOTE]
