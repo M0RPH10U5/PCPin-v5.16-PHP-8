@@ -1,0 +1,1 @@
+<script>parent.c("<?PHP ECHO $command_line?>")</script>
