@@ -1,4 +1,12 @@
-![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/M0RPH10U5/PCPin-v5.16-PHP-8/latest/total?style=plastic&label=Latest&labelColor=%23777777&color=%2300FF30)
+![GitHub Downloads (all assets, latest release)](https://img.shields.io/github/downloads/M0RPH10U5/PCPin-v5.16-PHP-8/latest/total?label=Latest)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/M0RPH10U5/PCPin-v5.16-PHP-8)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/M0RPH10U5/PCPin-v5.16-PHP-8)
+![GitHub License](https://img.shields.io/github/license/M0RPH10U5/PCPin-v5.16-PHP-8)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/M0RPH10U5/PCPin-v5.16-PHP-8)
+![GitHub repo size](https://img.shields.io/github/repo-size/M0RPH10U5/PCPin-v5.16-PHP-8)
+![Static Badge](https://img.shields.io/badge/Version%3A-8.4-%23777BB4?logo=php&logoColor=%23777BB4&logoSize=auto)
+
+
 
 
 > [!NOTE]
